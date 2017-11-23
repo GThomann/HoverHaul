@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: edf9f2d99b7507b4b8174ec93002cf6d
+timeCreated: 1465041015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Fan
+    100002: Belt
+    100004: Direction_Comand
+    100006: Engine
+    100008: Escapamento
+    100010: Estrutura_Geral
+    100012: Fuel_point
+    100014: Guidon
+    100016: //RootNode
+    100018: Leme
+    100020: Painel
+    100022: Propeler
+    100024: Protection
+    100026: Sun
+    100028: Velo_point
+    400000: Back_Fan
+    400002: Belt
+    400004: Direction_Comand
+    400006: Engine
+    400008: Escapamento
+    400010: Estrutura_Geral
+    400012: Fuel_point
+    400014: Guidon
+    400016: //RootNode
+    400018: Leme
+    400020: Painel
+    400022: Propeler
+    400024: Protection
+    400026: Sun
+    400028: Velo_point
+    2300000: Back_Fan
+    2300002: Belt
+    2300004: Direction_Comand
+    2300006: Engine
+    2300008: Escapamento
+    2300010: Estrutura_Geral
+    2300012: Fuel_point
+    2300014: Guidon
+    2300016: Leme
+    2300018: Painel
+    2300020: Propeler
+    2300022: Protection
+    2300024: Velo_point
+    3300000: Back_Fan
+    3300002: Belt
+    3300004: Direction_Comand
+    3300006: Engine
+    3300008: Escapamento
+    3300010: Estrutura_Geral
+    3300012: Fuel_point
+    3300014: Guidon
+    3300016: Leme
+    3300018: Painel
+    3300020: Propeler
+    3300022: Protection
+    3300024: Velo_point
+    4300000: Estrutura_Geral
+    4300002: Engine
+    4300004: Propeler
+    4300006: Back_Fan
+    4300008: Belt
+    4300010: Painel
+    4300012: Velo_point
+    4300014: Fuel_point
+    4300016: Leme
+    4300018: Protection
+    4300020: Guidon
+    4300022: Direction_Comand
+    4300024: Escapamento
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

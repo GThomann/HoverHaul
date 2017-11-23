@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 785505513f1622d4f9bbfd45b513d4a2
+timeCreated: 1462015699
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 1
+  mergeCoplanarFaces: 1
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: cf0fda44e7b7d684a4f0aa25b4898524
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -10.7038, y: 6.5928802, z: 10.771142}
+      lookAt: {x: -5.5553236, y: 2.5193255, z: 4.6139545}
+      up: {x: 0.29031923, y: 0.8917214, z: -0.34719977}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1/2
+    100002: 10
+    100004: 20
+    100006: 30
+    100008: 40
+    100010: 50
+    100012: 60
+    100014: Component#1
+    100016: Component#1 1
+    100018: Component#2
+    100020: Component#2 1
+    100022: Component#2 2
+    100024: Component#2 3
+    100026: Component#2 4
+    100028: Component#3
+    100030: Component#4
+    100032: E
+    100034: F
+    100036: //RootNode
+    100038: Group 1
+    100040: Group 11
+    100042: Group 13
+    100044: Group 15
+    100046: Group 3
+    100048: Group 35
+    100050: Group 4
+    100052: Group 6
+    100054: Group 7
+    100056: Group 9
+    100058: pull
+    100060: skeCA75
+    400000: 1/2
+    400002: 10
+    400004: 20
+    400006: 30
+    400008: 40
+    400010: 50
+    400012: 60
+    400014: Component#1
+    400016: Component#1 1
+    400018: Component#2
+    400020: Component#2 1
+    400022: Component#2 2
+    400024: Component#2 3
+    400026: Component#2 4
+    400028: Component#3
+    400030: Component#4
+    400032: E
+    400034: F
+    400036: //RootNode
+    400038: Group 1
+    400040: Group 11
+    400042: Group 13
+    400044: Group 15
+    400046: Group 3
+    400048: Group 35
+    400050: Group 4
+    400052: Group 6
+    400054: Group 7
+    400056: Group 9
+    400058: pull
+    400060: skeCA75
+    2300000: 1/2
+    2300002: 10
+    2300004: 20
+    2300006: 30
+    2300008: 40
+    2300010: 50
+    2300012: 60
+    2300014: Component#1
+    2300016: Component#1 1
+    2300018: Component#2
+    2300020: Component#2 1
+    2300022: Component#2 2
+    2300024: Component#2 3
+    2300026: Component#2 4
+    2300028: Component#3
+    2300030: Component#4
+    2300032: E
+    2300034: F
+    2300036: Group 1
+    2300038: Group 11
+    2300040: Group 13
+    2300042: Group 15
+    2300044: Group 35
+    2300046: Group 4
+    2300048: Group 7
+    2300050: Group 9
+    2300052: pull
+    2300054: skeCA75
+    3300000: 1/2
+    3300002: 10
+    3300004: 20
+    3300006: 30
+    3300008: 40
+    3300010: 50
+    3300012: 60
+    3300014: Component#1
+    3300016: Component#1 1
+    3300018: Component#2
+    3300020: Component#2 1
+    3300022: Component#2 2
+    3300024: Component#2 3
+    3300026: Component#2 4
+    3300028: Component#3
+    3300030: Component#4
+    3300032: E
+    3300034: F
+    3300036: Group 1
+    3300038: Group 11
+    3300040: Group 13
+    3300042: Group 15
+    3300044: Group 35
+    3300046: Group 4
+    3300048: Group 7
+    3300050: Group 9
+    3300052: pull
+    3300054: skeCA75
+    4300000: Mesh Group 1
+    4300002: Mesh Group 4
+    4300004: Mesh Group 9
+    4300006: Mesh Group 11
+    4300008: Mesh Group 13
+    4300010: Mesh Group 15
+    4300012: Mesh 10
+    4300014: Mesh 20
+    4300016: Mesh 30
+    4300018: Mesh 40
+    4300020: Mesh 50
+    4300022: Mesh 60
+    4300024: Mesh E
+    4300026: Mesh 1/2
+    4300028: Mesh F
+    4300030: Mesh Group 35
+    4300032: Mesh pull
+    4300034: Mesh Component#2
+    4300036: Mesh Component#3
+    4300038: Mesh Component#4
+    4300040: Mesh skeCA75
+    4300042: Mesh Component#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
